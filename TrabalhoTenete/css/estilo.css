@@ -25,38 +25,40 @@ body {
 	transition: transform 0.3s linear 0.1s;
 }
 .m1:hover{
-  -moz-transform: scale(1.1);
-	-webkit-transform: scale(1.1);
+  -moz-transform: scale(1.07);
+	-webkit-transform: scale(1.07);
 	transform: scale(1.1);
 	transition:0.5s;
 }
 .m2:hover{
-  -moz-transform: scale(1.1);
-	-webkit-transform: scale(1.1);
+-moz-transform: scale(1.07);
+	-webkit-transform: scale(1.07);
+
 	transform: scale(1.1);
 	transition:0.5s;
 }
 .m3:hover{
-  -moz-transform: scale(1.1);
-	-webkit-transform: scale(1.1);
+	-moz-transform: scale(1.07);
+	-webkit-transform: scale(1.07);
+
 	transform: scale(1.1);
 	transition:0.5s;
 }
 .m4:hover{
-  -moz-transform: scale(1.1);
-	-webkit-transform: scale(1.1);
+	-moz-transform: scale(1.07);
+	-webkit-transform: scale(1.07);
 	transform: scale(1.1);
 	transition:0.5s;
 }
 .m5:hover{
-  -moz-transform: scale(1.1);
-	-webkit-transform: scale(1.1);
+	-moz-transform: scale(1.07);
+	-webkit-transform: scale(1.07);
 	transform: scale(1.1);
 	transition:0.5s;
 }
 .m6:hover{
-  -moz-transform: scale(1.1);
-	-webkit-transform: scale(1.1);
+-moz-transform: scale(1.07);
+	-webkit-transform: scale(1.07);
 	transform: scale(1.1);
 	transition:0.5s;
 }
