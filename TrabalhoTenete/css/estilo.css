@@ -10,31 +10,37 @@ body {
   -moz-transform: scale(1.1);
 	-webkit-transform: scale(1.1);
 	transform: scale(1.1);
+	transition:1s;
 }
 .m2:hover{
   -moz-transform: scale(1.1);
 	-webkit-transform: scale(1.1);
 	transform: scale(1.1);
+	transition:1s;
 }
 .m3:hover{
   -moz-transform: scale(1.1);
 	-webkit-transform: scale(1.1);
 	transform: scale(1.1);
+	transition:1s;
 }
 .m4:hover{
   -moz-transform: scale(1.1);
 	-webkit-transform: scale(1.1);
 	transform: scale(1.1);
+	transition:1s;
 }
 .m5:hover{
   -moz-transform: scale(1.1);
 	-webkit-transform: scale(1.1);
 	transform: scale(1.1);
+	transition:1s;
 }
 .m6:hover{
   -moz-transform: scale(1.1);
 	-webkit-transform: scale(1.1);
 	transform: scale(1.1);
+	transition:1s;
 }
 .topo{
   
