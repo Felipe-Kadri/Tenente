@@ -6,6 +6,24 @@
 body {
   padding-top: 56px;
 }
+.m1{
+	transition: transform 0.3s linear 0.1s;
+}
+.m2{
+	transition: transform 0.3s linear 0.1s;
+}
+.m3{
+	transition: transform 0.3s linear 0.1s;
+}
+.m4{
+	transition: transform 0.3s linear 0.1s;
+}
+.m5{
+	transition: transform 0.3s linear 0.1s;
+}
+.m6{
+	transition: transform 0.3s linear 0.1s;
+}
 .m1:hover{
   -moz-transform: scale(1.1);
 	-webkit-transform: scale(1.1);
